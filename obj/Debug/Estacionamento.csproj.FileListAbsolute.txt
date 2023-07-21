@@ -1,0 +1,11 @@
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Form1.resources
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.cache
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\eduardo.bcoppi\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
